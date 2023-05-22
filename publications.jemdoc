@@ -1,11 +1,56 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
-==Publications
+==Publications and Grants
 
 [https://scholar.google.com/citations?user=gH4cHSYAAAAJ Google Scholar]\n
+* Indicates that the authors have contributed equally to the work.\n
+† Indicates presenting author
+
+== Funded Grants 
+. Clancy, P. (PI), Nam, L. Q. (co-PI), *Sharma Priyadarshini, M.* (Senior Personnel)\n
+Towards Proton Radiation-Resistant Perovskite Solar Cell Materials for Space Applications\n
+/HEMI\/APL Seed Grant/, 2023.
 
 == Journal papers
 
 . *Sharma Priyadarshini, M.*\*, Ventui S.\*, Zanardi I. and Panesi M.\n
-[https://pubs.rsc.org/en/content/articlelanding/2023/cp/d2cp05506f/unauth Efficient quasi-classical trajectory calculations by means of neural operator architectures]\n
+[https://pubs.rsc.org/en/content/articlelanding/2023/cp/d2cp05506f/unauth Efficient Quasi-Classical Trajectory Calculations by means of Neural Operator Architectures]\n
 /Physical Chemistry Chemical Physics/, 2023.
+. *Sharma Priyadarshini, M.*, Jo, S. M., Ventui S., Schwenke, D. W., Jaffe, R. L. and Panesi M.\n
+[https://pubs.acs.org/doi/full/10.1021/acs.jpca.2c03959 Comprehensive Study of HCN: Potential Energy Surfaces, State-to-State Kinetics, and Master Equation Analysis]\n
+/The Journal of Physical Chemistry A/, 2022.
+. Jo, S. M., Ventui S., *Sharma Priyadarshini, M.*, Munafo, A. and Panesi M.\n
+[https://pubs.acs.org/doi/full/10.1021/acs.jpca.1c10346 Rovibrational-Specific QCT and Master Equation Study on N2(X1Σg\+) \+ O(3P) and NO(X2Π) \+ N(4S) Systems in High-Energy Collisions]\n
+/The Journal of Physical Chemistry A/, 2022.
+. *Sharma Priyadarshini, M.*, Jaffe, R. L. and Panesi M.\n
+[https://pubs.acs.org/doi/full/10.1021/acs.jpca.1c04619 Carbon Clusters: Thermochemistry and Electronic Structure at High Temperatures]\n
+/The Journal of Physical Chemistry A/, 2021.
+. Ventui S., *Sharma Priyadarshini, M.*, Lopez, B. and Panesi M.\n
+[https://pubs.acs.org/doi/full/10.1021/acs.jpca.0c04516 Data-Inspired and Physics-Driven Model Reduction for Dissociation: Application to the O2 + O System]\n
+/The Journal of Physical Chemistry A/, 2020 *(Featured as Journal Cover)*.
+. *Sharma Priyadarshini, M.*, Liu, Y. and Panesi M.\n
+[https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.013307 Coarse-grained modeling of thermochemical nonequilibrium using the multigroup maximum entropy quadratic formulation]\n
+/Physical Review E/, 2020.
 
+== Selected Papers in Conference Proceedings ([https://scholar.google.com/citations?user=gH4cHSYAAAAJ Full List])
+
+. *Sharma Priyadarshini, M.*\†, Ventui S., Schwenke, D. W., Jaffe, R. L. and Panesi M.\n
+[https://arc.aiaa.org/doi/abs/10.2514/6.2022-1013 Importance of Exchange Processes in Earth and Mars Atmospheric Kinetics: Application to HCN System]\n
+/AIAA Scitech Forum/, 2022.
+. *Sharma Priyadarshini, M.*\*\†, Ventui S.\* and Panesi M.\n
+[https://arc.aiaa.org/doi/abs/10.2514/6.2021-3144 Application of DeepOnet to Model Inelastic Scattering Probabilities in Air Mixtures]\n
+/AIAA Aviation Forum/, 2021.
+. *Sharma Priyadarshini, M.*\†, Jaffe, R. L. and Panesi M.\n
+[https://ntrs.nasa.gov/citations/20190031966 Thermodynamic Analysis of Boundary Layer Species During Ablation]\n
+/International Conference on Flight vehicles, Aerothermodynamics and Re-entry Missions and Engineering/, 2019.
+. *Sharma Priyadarshini, M.*\†, Munafo, A. and Panesi M.\n
+[https://pubs.aip.org/aip/acp/article/2132/1/100009/1002958/Characterization-of-non-equilibrium-hypersonic Characterization of Non-Equilibrium Hypersonic Flows using Maximum Entropy Linear Model]\n
+/AIP Conference Proceedings/, 2019.
+. *Sharma Priyadarshini, M.*\†, Venturi, S., Munafo, A. and Panesi M.\n
+[https://arc.aiaa.org/doi/abs/10.2514/6.2019-0792 Application of Ab-initio Based Grouped Rates for Modeling Non-Equilibrium Flow Physics]\n
+/AIAA Scitech Forum/, 2019.
+. Venturi, S.\†, *Sharma Priyadarshini, M.*, and Panesi M.\n
+[https://arc.aiaa.org/doi/abs/10.2514/6.2019-0788 A Machine Learning Framework for the Quantification of the Uncertainties Associated with Ab-initio Based Modeling of Non-equilibrium Flows]\n
+/AIAA Scitech Forum/, 2019.
+. *Sharma Priyadarshini, M.*\†, Munafo, A., Brandis, A. M., Cruden, B. A. and Panesi M.\n
+[https://arc.aiaa.org/doi/abs/10.2514/6.2018-4181 One-dimensional modeling methodology for shock tubes: Application to the EAST facility]\n
+/AIAA Joint Thermophysics and Heat Transfer Conference/, 2018.
