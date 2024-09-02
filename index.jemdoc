@@ -1,25 +1,15 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-==Maitreyee Sharma Priyadarshini
-she/her
+==Sharma Research Group
 
-~~~
-{}{img_left}{figures/Sharma1.jpeg}{alt text}{202.72}{360}{https://msharmap.github.io/}
-[https://www.aoe.vt.edu/people/faculty/maitreyee-sharma-priyadarshini.html Assistant Professor], \n [https://www.aoe.vt.edu/ Kevin T. Crofton Department of Aerospace and Ocean Engineering],\n
-Virginia Tech \n
+The Sharma Research Group focuses on development of computational methods to study both fluid and material systems. Our current focus is on developing machine learning models for materials discovery, uncertainty quantification of chemically reacting flows in hypersonic regimes and studying materials for energy harvesting and sustainable aviation. We use a combination of quantum chemistry calcutions, molecular dynamics simulations and computational fluid dynamics to study these systems. Find out more about our research [/research.html here]. 
+#I am a Postdoctoral Research Associate with [https://engineering.jhu.edu/faculty/paulette-clancy/ Prof. Paulette Clancy] and [https://sites.krieger.jhu.edu/hernandez-lab/ Prof. Rigoberto Hernandez] at Johns Hopkins University. 
+#I currently work on developing computational material discovery algorithms and multi-scale material models for energy and space applications. 
+#Before this, I completed my Ph.D. in Aerospace Engineering at University of Illinois, Urbana-Champaign, advised by [https://chess.grainger.illinois.edu/ Prof. Marco Panesi].
+#My Ph.D. thesis focused on developing a computational framework to accurately predict and mitigate heating on spacecraft surfaces. 
+#My work has been recognized by multiple awards and honors, including Aerospace Engineering Alumni Advisory Board Fellowship (UIUC), Rising Stars in Aerospace (MIT), Mavis Future Faculty Fellowship (UIUC), Outstanding Asian \& Asian American Graduate Student Leader Award (UIUC), Block Grant Fellowship (UIUC) and one of the nine UIUC finalists nominated for the Schmidt Science Fellows National Competition.
+#I am committed to enhancing diversity, equity, and inclusion in STEM through mentoring, outreach, and service activities. 
 
-Email: /msharmap/ \[@\] vt \[DOT\] edu \n
-Contact: McBryde Hall, Room 618
-~~~
-
-== About me
-I am a Postdoctoral Research Associate with [https://engineering.jhu.edu/faculty/paulette-clancy/ Prof. Paulette Clancy] and [https://sites.krieger.jhu.edu/hernandez-lab/ Prof. Rigoberto Hernandez] at Johns Hopkins University. 
-I currently work on developing computational material discovery algorithms and multi-scale material models for energy and space applications. 
-Before this, I completed my Ph.D. in Aerospace Engineering at University of Illinois, Urbana-Champaign, advised by [https://chess.grainger.illinois.edu/ Prof. Marco Panesi].
-My Ph.D. thesis focused on developing a computational framework to accurately predict and mitigate heating on spacecraft surfaces. 
-My work has been recognized by multiple awards and honors, including Aerospace Engineering Alumni Advisory Board Fellowship (UIUC), Rising Stars in Aerospace (MIT), Mavis Future Faculty Fellowship (UIUC), Outstanding Asian \& Asian American Graduate Student Leader Award (UIUC), Block Grant Fellowship (UIUC) and one of the nine UIUC finalists nominated for the Schmidt Science Fellows National Competition.
-I am committed to enhancing diversity, equity, and inclusion in STEM through mentoring, outreach, and service activities. 
-
-Apart from research, I love dancing and teaching dance ([https://www.youtube.com/watch?v=40Mywao-zxY&t=560s&ab_channel=SPICMACAYIllinois watch my students perform]). I have trained in Bharatnatyam, an Indian classical dance form, for over 20 years with Prof. M. R. Krishnamurthy. Head to my [https://www.youtube.com/watch?v=5jhfrNRHa0w&ab_channel=MaitreyeeSharma YouTube channel] to watch excerpts from my performances. I also enjoy practicing yoga, playing tennis, hiking, swimming and playing the piano.
+#Apart from research, I love dancing and teaching dance ([https://www.youtube.com/watch?v=40Mywao-zxY&t=560s&ab_channel=SPICMACAYIllinois watch my students perform]). I have trained in Bharatnatyam, an Indian classical dance form, for over 20 years with Prof. M. R. Krishnamurthy. Head to my [https://www.youtube.com/watch?v=5jhfrNRHa0w&ab_channel=MaitreyeeSharma YouTube channel] to watch excerpts from my performances. I also enjoy practicing yoga, playing tennis, hiking, swimming and playing the piano.
 
 #[/research.html Find out more]. \n
 [/publications.html Full list of publications]. \n
