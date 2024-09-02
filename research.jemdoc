@@ -23,13 +23,13 @@ Space solar cells are, therefore, required to have high power conversion efficie
 wide operating temperature ranges to ensure durability and efficient performance.
 #Metal Halide Perovskites (MHPs) are an attractive material class for solar cell applications due to their outstanding optoelectronic properties, tunability, low-cost manufacturing and high device performance.
 #For space applications, MHPs are an attractive 
-alternative to state-of-the-art III-V (e.g., GaAs) multijunction solar cells; being extremely light weight and having mechanical flexibility. 
+#alternative to state-of-the-art III-V (e.g., GaAs) multijunction solar cells; being extremely light weight and having mechanical flexibility. 
 #Their ease of manufacturing makes them an ideal candidate for in-space manufacturing.
 *Our group utilizes atomistic simulation tools and  physics-informed machine learning models to study the impact of high-energy radiation on energy harvesting materials that are of interest to in-space manufacturing and in-orbit repair applications.* 
 
 == Materials discovery and synthesis planning algorithms
 
-Design materials of extreme conditions finds several applications in space flight, hypersonics, nuclear reactors and scram-jet engines to name a few. 
+Designing materials for extreme conditions finds several applications in space flight, hypersonics, nuclear reactors and scramjet engines to name a few. 
 On the molecular scale, Bayesian Optimization (BayesOpt) is becoming a popular tool for material discovery and, in recent years, closed-loop and automated material discovery frameworks have also been built using BayesOpt. 
 However, there is a growing need for developing computational tools to assess the synthesis viability and operational stability of these materials. 
 
@@ -38,5 +38,5 @@ The power of RL techniques comes from the fact that they are set up in a self-le
 These learning frameworks result in discovery of ``unconventional solutions" never thought of before by human experts, as seen in the AlphaGo matches against professional Go players. 
 Such powerful exploration strategies are exactly what are needed for computational methods to enable discovery of exceptional materials /outside our current chemical intuition/. 
 In comparison to BayesOpt, RL frameworks are model-free and better suited for navigating complex synthesis-process-structure-property landscapes and sequential multiscale discovery. 
-Leveraging the advantages of RL, *our group focuses on development material discovery frameworks to identify "exceptional" materials for extreme conditions by using multi-objective active-learning frameworks.*
-#Although the developed methods will be general and applicable to any material systems, \textbf{my group will focus on advancing discovery and synthesis of materials for space electronics and heat shield applications.
+Leveraging the advantages of RL, *our group focuses on development of material discovery frameworks to identify "exceptional" materials for various applications including sustainable aviation, space actuation and energy harvesting.*
+
